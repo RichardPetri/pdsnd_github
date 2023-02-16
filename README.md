@@ -14,6 +14,6 @@ You can choose the **city** and have the filter options by: **month** and **day 
 * chicago.csv
 
 ### Credits
-To help me figure out how to only output the value for mode() without the rest of the info, I used this [stack overflow post](https://stackoverflow.com/questions/42885332/uncomfortable-output-of-mode-in-pandas-dataframe)
+To help me figure out how to only output the value for mode() without the rest of the info, I used this [stack overflow post](https://stackoverflow.com/questions/42885332/uncomfortable-output-of-mode-in-pandas-dataframe).
 
 Also, I used the practice solutions for load_data, mode() and user breakdown from the Udacity Python Project.
