@@ -1,17 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+February 16th 2023
 
-### Project Title
-Replace the Project Title
+# Python bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+This python script lets you explore the bikeshare data from three cities stored in the corresponding .csv files (not included in the remote repository).
+You can choose the **city** and have the filter options by: **month** and **day of week**. After choosing those, the script lets you explore the **raw data**, if you choose so. You can also start over again.
 
 ### Files used
-Include the files used
+* bikeshare.py
+* new_york_city.csv
+* washington.csv
+* chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+To help me figure out how to only output the value for mode() without the rest of the info, I used this [stack overflow post](https://stackoverflow.com/questions/42885332/uncomfortable-output-of-mode-in-pandas-dataframe)
 
+Also, I used the practice solutions for load_data, mode() and user breakdown from the Udacity Python Project.
